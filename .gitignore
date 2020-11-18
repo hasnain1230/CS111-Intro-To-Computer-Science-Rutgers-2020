@@ -21,3 +21,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# IntelliJ Idea Files
+out/
+.idea/
+*.iml
+
+# Recitiation Scratch Work (Files that were used to test code during recititation. They have no significance to this repository)
+src/edu/Rutgers/IntroToCS111/RecitiationScratchWork/
+
+# Assignment 6 - Currently, the assignment due date has not passed yet. Will push when the the assignment can no longer be submitted to ensure academic integrity.
+src/edu/Rutgers/IntroToCS111/Assignment6/
+
+
