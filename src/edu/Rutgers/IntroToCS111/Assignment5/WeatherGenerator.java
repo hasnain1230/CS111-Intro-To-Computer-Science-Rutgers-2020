@@ -181,8 +181,6 @@ public class WeatherGenerator {
 
         /*** WRITE YOUR CODE BELLOW THIS LINE. DO NOT erase any of the lines above. ***/
 
-        System.out.println(StdRandom.getSeed());
-
         // Read command line inputs 
         double longitute = Double.parseDouble(args[0]);
         double latitude  = Double.parseDouble(args[1]);
